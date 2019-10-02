@@ -7,4 +7,4 @@
 from flask import Flask
 app = Flask(__name__)
 
-import app.views
+import self_learn.views
